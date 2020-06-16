@@ -1,0 +1,3 @@
+[submodule "cloud-developer"]
+	path = cloud-developer
+	url = https://github.com/jcpince/cloud-developer.git
